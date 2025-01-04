@@ -151,5 +151,5 @@ def HotelManagementSystem():
         else:
             print("\nInvalid choice! Please try again.")
 
-if __name__ == "__main__":
-    HotelManagementSystem()
+
+HotelManagementSystem()
