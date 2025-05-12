@@ -62,4 +62,12 @@ The project is organized into folders, with each folder corresponding to a speci
 
 ## Summary
 This project demonstrates the application of various data structures in building a functional and efficient Hotel Management System with Online Booking. Each topic highlights a specific use case, showcasing the versatility and importance of data structures in software development.
+-------------------------------------------------
+## OOP Movement 
+ - `OOP/`: this is a folder that contain all related oop componet with c++.
+- `OOP/Assignment-1`: this is a folder that contain work for assignment-1.
+- `OOP/Assignment-1/assignment-1-screenshots`: this is a folder that contain screenshots of assignment-1 work and are renamed accordingly.
+
+
+
 
